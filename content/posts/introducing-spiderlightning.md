@@ -3,6 +3,7 @@ title: "SpiderLightning Introduction"
 description: "Announcing SpiderLightning and slight, a distributed application runtime for Wasm featuring portable application building blocks."
 date: 2022-11-04 00:00:00 +0000 UTC
 authorlink: "https://twitter.com/jiaiao_zhou"
+tags: ["wasm", "spiderlightning", "slight"]
 ---
 
 > This post originally appeared on [DeisLabs](https://deislabs.io/posts/introducing-spiderlightning-and-slight/).
