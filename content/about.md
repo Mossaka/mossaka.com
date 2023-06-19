@@ -2,6 +2,9 @@
 title = "Hello there 👋"
 +++
 
+<!-- insert avatar to the right column and resize to 200px and inline with the above paragraph -->
+{{<image src="/images/avatar.png" alt="avatar" position="right" style="border-radius: 50%; width: 200px; margin-left: 20px; margin-bottom: 20px; float: right;">}}
+
 My name is Mossaka. I love building things that make developers' lives easier 💙.
 
 I'm currently working at Microsoft's [DeisLabs](https://deislabs.io/) as a Software Engineer. Here are three tags that say a lot about my career
