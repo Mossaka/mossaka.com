@@ -16,7 +16,6 @@ Outside of work, I've probably best known for running online [meetups](https://g
 
 Below are a few activities that you may find interesting:
 
-
 ## Speaking
 
 I enjoy sharing knowledge with other developers in the form of public speaking. I've spoken at a number of conferences and meetups, including:
@@ -26,23 +25,7 @@ I enjoy sharing knowledge with other developers in the form of public speaking. 
 - [A New Kind of Cloud System Interface with WebAssembly](https://youtu.be/zEPeMN0ZlBM) [22' Cloud Native Rejekts]
 
 You may find the full list of my talks at my Youtube channel [here](https://www.youtube.com/channel/UCKxo2eM8yW3cj42DaXx154Q).
-    
+
 ## Meetups
 
 I run a number of Chinese meetups that focus on distributed systems, database, operating systems and cloud–native technologies. You can find the full list of meetups that I run [here](https://github.com/splvm). Send me an [email](duibao55328@gmail.com) if your interested in hearing more about the group.
-
-
-
-<!-- My name is Mossaka and I'm the author of this theme. I made it to help you present your ideas easier.
-
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy! -->
