@@ -32,3 +32,11 @@ You may find the full list of my talks at my Youtube channel [here](https://www.
 ## Meetups
 
 I run a number of Chinese meetups that focus on distributed systems, database, operating systems and cloud–native technologies. You can find the full list of meetups that I run [here](https://github.com/splvm). Send me an [email](duibao55328@gmail.com) if your interested in hearing more about the group.
+
+
+<!-- add social media links -->
+You may find me online at:
+- [@jiaxiao_zhou](https://twitter.com/jiaxiao_zhou)
+- [YouTube](https://www.youtube.com/@MossakaLvZ)
+- [GitHub](https://github.com/Mossaka)
+- [Instagram](https://www.instagram.com/mossakaa/)
