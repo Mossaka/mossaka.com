@@ -13,7 +13,7 @@ I'm currently working at Microsoft's [DeisLabs](https://deislabs.io/) as a Softw
 - WebAssembly
 - Rust
 
-I'm a maintainer of Containerd's [Runwasi](https://github.com/containerd/runwasi) project, a lower-level OCI runtime for running WebAssembly workloads. I also contribute to [SpiderLightning](https://github.com/deislabs/spiderlightning), and some of [BytecodeAlliance](https://bytecodealliance.org/)'s projects.
+I'm a maintainer of Containerd's [Runwasi](https://github.com/containerd/runwasi/) project, a lower-level OCI runtime for running WebAssembly workloads. I also contribute to [SpiderLightning](https://github.com/deislabs/spiderlightning), and some of [BytecodeAlliance](https://bytecodealliance.org/)'s projects.
 
 Outside of work, I've probably best known for running online [meetups](https://github.com/splvm) that focus on distributed systems, database, OSes and merging cloud native technologies.
 
@@ -23,7 +23,7 @@ Below are a few activities that you may find interesting:
 
 I enjoy sharing knowledge with other developers in the form of public speaking. I've spoken at a number of conferences and meetups, including:
 
-- [WASI and the Cloud]((https://youtu.be/5WQRT62V_VU)) [23' KubeCon EU]
+- [WASI and the Cloud](https://youtu.be/5WQRT62V_VU) [23' KubeCon EU]
 - [Hands on with WebAssembly Microservices & Kubernetes](https://youtu.be/LdsyS2cedOw) [23' KubeCon EU]
 - [A New Kind of Cloud System Interface with WebAssembly](https://youtu.be/zEPeMN0ZlBM) [22' Cloud Native Rejekts]
 
