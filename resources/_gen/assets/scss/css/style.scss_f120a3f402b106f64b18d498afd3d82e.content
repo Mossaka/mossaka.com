@@ -469,7 +469,7 @@ pre {
   background: #212020;
   padding: 20px;
   border-radius: 8px;
-  font-size: .9rem;
+  font-size: 1.0rem;
   overflow: auto; }
   @media (max-width: 684px) {
     pre {
