@@ -51,17 +51,24 @@
     margin-top: 30px;
     // check if body class is light-theme
     body.light-theme & a {
-        color: #CCAD00;
-        text-decoration: none;
+      color: #b9a000;
+      text-decoration: none;
     }
     body.dark-theme & a {
-        color: #FFD700;
-        text-decoration: none;
+      color: #FFD700;
+      text-decoration: none;
     } 
-    a:hover {
-        color: inherit;
-        transition: opacity 0.1s linear;
+    // hover then change to inherit color
+    body.light-theme & a:hover {
+      color: inherit;
+      transition: color 0.1s;
     }
+
+    body.dark-theme & a:hover {
+      color: inherit;
+      transition: color 0.1s;
+    }
+
   }
 
   &-cover {

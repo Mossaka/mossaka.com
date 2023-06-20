@@ -247,7 +247,7 @@ a.read-more:active {
     display: inline-block;
     width: 10px;
     height: 1rem;
-    background: #CCAD00;
+    background: #b9a000;
     margin-left: 4px;
     border-radius: 1px;
     animation: cursor 1s infinite; }
@@ -629,14 +629,17 @@ h4:hover a {
     font-size: 1.125rem;
     margin-top: 30px; }
     body.light-theme .post-content a {
-      color: #CCAD00;
+      color: #b9a000;
       text-decoration: none; }
     body.dark-theme .post-content a {
       color: #FFD700;
       text-decoration: none; }
-    .post-content a:hover {
+    body.light-theme .post-content a:hover {
       color: inherit;
-      transition: opacity 0.1s linear; }
+      transition: color 0.1s; }
+    body.dark-theme .post-content a:hover {
+      color: inherit;
+      transition: color 0.1s; }
   .post-cover {
     margin: 40px -50px;
     width: 860px;
