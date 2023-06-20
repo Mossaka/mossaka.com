@@ -21,11 +21,20 @@
       font-size: 1.125rem;
     }
   
-    &__cursor {
+    body.dark-theme & &__cursor {
       display: inline-block;
       width: 10px;
       height: 1rem;
-      background: yellow;
+      background: #FFD700;
+      margin-left: 4px;
+      border-radius: 1px;
+      animation: cursor 1s infinite;
+    }
+    body.light-theme & &__cursor {
+      display: inline-block;
+      width: 10px;
+      height: 1rem;
+      background: #CCAD00;
       margin-left: 4px;
       border-radius: 1px;
       animation: cursor 1s infinite;
