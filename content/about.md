@@ -5,7 +5,7 @@ title = "Hello there 👋"
 <!-- insert avatar to the right column and resize to 200px and inline with the above paragraph -->
 {{<image src="/images/avatar.png" alt="avatar" position="right" style="border-radius: 50%; width: 200px; margin-left: 20px; margin-bottom: 20px; float: right;">}}
 
-My name is Mossaka. I love building things that make developers' lives easier 💙.
+My name is Jiaxiao (Joe) Zhou, and I also go by Mossaka. I love building things that make developers' lives easier 💙.
 
 I'm currently working at Microsoft's [DeisLabs](https://deislabs.io/) as a Software Engineer. Here are three tags that say a lot about my career
 
@@ -13,7 +13,7 @@ I'm currently working at Microsoft's [DeisLabs](https://deislabs.io/) as a Softw
 - WebAssembly
 - Rust
 
-I'm a maintainer of Containerd's [Runwasi](https://github.com/containerd/runwasi/) project, a lower-level OCI runtime for running WebAssembly workloads. I also contribute to [SpiderLightning](https://github.com/deislabs/spiderlightning), and some of [BytecodeAlliance](https://bytecodealliance.org/)'s projects.
+I'm a maintainer of Containerd's [Runwasi](https://github.com/containerd/runwasi/) project, a lower-level OCI runtime for running WebAssembly workloads, DeisLabs' [Containerd Wasm Shims](https://github.com/deislabs/containerd-wasm-shims), and [SpiderLightning](https://github.com/deislabs/spiderlightning). I am also a Recognized Contributor in the [Bytecode Alliance](https://bytecodealliance.org/).
 
 Outside of work, I've probably best known for running online [meetups](https://github.com/splvm) that focus on distributed systems, database, OSes and merging cloud native technologies.
 
@@ -23,6 +23,7 @@ Below are a few activities that you may find interesting:
 
 I enjoy sharing knowledge with other developers in the form of public speaking. I've spoken at a number of conferences and meetups, including:
 
+- [Take Wasi-Cloud-Core for a Spin](https://sched.co/1PCMG) [23' WasmCon]
 - [WASI and the Cloud](https://youtu.be/5WQRT62V_VU) [23' KubeCon EU]
 - [Hands on with WebAssembly Microservices & Kubernetes](https://youtu.be/LdsyS2cedOw) [23' KubeCon EU]
 - [A New Kind of Cloud System Interface with WebAssembly](https://youtu.be/zEPeMN0ZlBM) [22' Cloud Native Rejekts]
