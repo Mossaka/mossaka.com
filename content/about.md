@@ -23,7 +23,8 @@ Below are a few activities that you may find interesting:
 
 I enjoy sharing knowledge with other developers in the form of public speaking. I've spoken at a number of conferences and meetups, including:
 
-- [Take Wasi-Cloud-Core for a Spin](https://sched.co/1PCMG) [23' WasmCon]
+- [Go Meets Wasm: Harnessing the Power of Wasm Components with Go (中文)](https://youtu.be/Q7BIJX7gTGg?si=f5d_YQF28zZ4gsXI) [23' KCD Shenzhen]
+- [Take Wasi-Cloud-Core for a Spin](https://youtu.be/W-ubCAMAJQc?si=Z1PaRhU18IMfOXns) [23' WasmCon]
 - [WASI and the Cloud](https://youtu.be/5WQRT62V_VU) [23' KubeCon EU]
 - [Hands on with WebAssembly Microservices & Kubernetes](https://youtu.be/LdsyS2cedOw) [23' KubeCon EU]
 - [A New Kind of Cloud System Interface with WebAssembly](https://youtu.be/zEPeMN0ZlBM) [22' Cloud Native Rejekts]
