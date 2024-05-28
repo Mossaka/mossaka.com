@@ -3,7 +3,7 @@ title = "Hello there 👋"
 +++
 
 <!-- insert avatar to the right column and resize to 200px and inline with the above paragraph -->
-{{<image src="/images/avatar.png" alt="avatar" position="right" style="border-radius: 50%; width: 200px; margin-left: 20px; margin-bottom: 20px; float: right;">}}
+{{<image src="/images/avatar.jpg" alt="avatar" position="right" style="border-radius: 50%; width: 200px; margin-left: 20px; margin-bottom: 20px; float: right;">}}
 
 My name is Jiaxiao (Joe) Zhou, and I also go by Mossaka. I love building things that make developers' lives easier 💙.
 
