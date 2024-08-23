@@ -51,8 +51,9 @@
     margin-top: 30px;
     // check if body class is light-theme
     body.light-theme & a {
-      color: #b9a000;
+      color: #d9730d;
       text-decoration: none;
+      font-weight: 600;
     }
     body.dark-theme & a {
       color: #FFD700;
@@ -60,13 +61,13 @@
     } 
     // hover then change to inherit color
     body.light-theme & a:hover {
-      color: inherit;
-      transition: color 0.1s;
+      text-decoration: underline;
+      transition: text-decoration 0.1s;
     }
-
+    
     body.dark-theme & a:hover {
-      color: inherit;
-      transition: color 0.1s;
+      text-decoration: underline;
+      transition: text-decoration 0.1s;
     }
 
   }
