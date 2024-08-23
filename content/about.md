@@ -13,9 +13,9 @@ I'm currently working at Microsoft's [DeisLabs](https://deislabs.io/) as a Softw
 - WebAssembly
 - Rust
 
-I'm a maintainer of Containerd's [Runwasi](https://github.com/containerd/runwasi/) project, a lower-level OCI runtime for running WebAssembly workloads, DeisLabs' [Containerd Wasm Shims](https://github.com/deislabs/containerd-wasm-shims), and [SpiderLightning](https://github.com/deislabs/spiderlightning). I am also a Recognized Contributor in the [Bytecode Alliance](https://bytecodealliance.org/).
+I'm a maintainer of Containerd's [Runwasi](https://github.com/containerd/runwasi/) project, a lower-level OCI runtime for running WebAssembly workloads, [SpinKube](https://www.spinkube.dev/), and [SpiderLightning](https://github.com/deislabs/spiderlightning). I am also a Recognized Contributor in the [Bytecode Alliance](https://bytecodealliance.org/).
 
-Outside of work, I've probably best known for running online [meetups](https://github.com/splvm) that focus on distributed systems, database, OSes and merging cloud native technologies.
+Outside of work, I've probably best known for running online [meetups](https://github.com/splvm) that focus on distributed systems, database, OSes and emerging cloud native technologies.
 
 Below are a few activities that you may find interesting:
 
@@ -38,6 +38,7 @@ I run a number of Chinese meetups that focus on distributed systems, database, o
 
 <!-- add social media links -->
 You may find me online at:
+
 - [@jiaxiao_zhou](https://twitter.com/jiaxiao_zhou)
 - [YouTube](https://www.youtube.com/@MossakaLvZ)
 - [GitHub](https://github.com/Mossaka)
