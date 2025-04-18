@@ -25,6 +25,7 @@ I enjoy sharing knowledge with other developers in the form of public speaking. 
 
 | Talk                                                                                               | Conference               |
 |----------------------------------------------------------------------------------------------------|--------------------------|
+| [Containerd: Project Update and Deep Dive](https://youtu.be/5ZWbS01wCMk?si=xEhbtQDqZnlxTaGT)       | '25 KubeCon EU           |
 | [Running WebAssembly Workloads Side-by-side with Container Workloads](https://youtu.be/Bq5aTYyRBH0?si=iZBZpCwrKC2pr6Mo) | '24 KubeCon              |
 | [WASI to Go: Write Once, Go Anywhere](https://youtu.be/IM9Leoqc-xY?si=Z3oHmejr2thxkw9K)            | '24 WasmCon              |
 | [Virtual Machines, Containers and WebAssembly Face-off](https://youtu.be/IwjGnxS-GaQ?si=RUCqCK7q9fi8W2jQ) | '24 Cloud Native Rejekts |
